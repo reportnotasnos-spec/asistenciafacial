@@ -1,0 +1,7 @@
+/vendor/
+.env
+/public/uploads/avatars/*
+!/public/uploads/avatars/.gitkeep
+.DS_Store
+*.log
+.gemini/
